@@ -7,20 +7,12 @@
 		<key>Add</key>
 		<array>
 			<dict>
-				<key>Comment</key>
-				<string>SSDT-EC-USBX-AMD.aml</string>
 				<key>Enabled</key>
 				<true/>
-				<key>Path</key>
-				<string>SSDT-EC-USBX-AMD.aml</string>
-			</dict>
-			<dict>
 				<key>Comment</key>
-				<string>SSDT-EC-USBX.aml</string>
+				<string>SSDT-EC.aml</string>
 				<key>Path</key>
-				<string>SSDT-EC-USBX.aml</string>
-				<key>Enabled</key>
-				<true/>
+				<string>SSDT-EC.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
