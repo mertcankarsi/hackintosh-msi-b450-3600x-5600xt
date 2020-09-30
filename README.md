@@ -5,7 +5,7 @@ Opencore bootloader that I'm currently using on my hackintosh
 0.6.1
 
 ### MacOS Version
-10.15.6
+10.15.7
 
 ### Mainboard
 MSI B450M Mortar Max
