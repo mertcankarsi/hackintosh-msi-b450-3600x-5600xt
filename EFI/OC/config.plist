@@ -10,9 +10,17 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Comment</key>
-				<string>SSDT-EC.aml</string>
+				<string>SSDT-EC</string>
 				<key>Path</key>
 				<string>SSDT-EC.aml</string>
+			</dict>
+			<dict>
+				<key>Enabled</key>
+				<true/>
+				<key>Comment</key>
+				<string>SSDT-USBX</string>
+				<key>Path</key>
+				<string>SSDT-USBX.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -165,7 +173,7 @@
 			<key>RebuildAppleMemoryMap</key>
 			<true/>
 			<key>SetupVirtualMap</key>
-			<true/>
+			<false/>
 			<key>SignalAppleOS</key>
 			<false/>
 			<key>SyncRuntimePermissions</key>
@@ -318,8 +326,6 @@
 			<false/>
 			<key>DisableIoMapper</key>
 			<false/>
-			<key>DummyPowerManagement</key>
-			<true/>
 			<key>ExternalDiskIcons</key>
 			<false/>
 			<key>IncreasePciBarSize</key>
@@ -334,6 +340,8 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<true/>
+			<key>LegacyCommpage</key>
+			<false/>
 		</dict>
 		<key>Patch</key>
 		<array>
@@ -1438,6 +1446,8 @@
 			<string>C02Z203DHX87</string>
 			<key>SystemUUID</key>
 			<string>AED87252-E7BE-41D3-9C86-883A3DA3F92B</string>
+			<key>SystemMemoryStatus</key>
+			<string>Auto</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

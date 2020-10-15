@@ -2,7 +2,7 @@
 Opencore bootloader that I'm currently using on my hackintosh
 
 ### OpenCore Version 
-0.6.1
+0.6.2
 
 ### MacOS Version
 10.15.7
