@@ -4,7 +4,7 @@ Opencore bootloader that I'm currently using on my hackintosh
 
 ### OpenCore Version
 
-0.6.3
+0.6.5
 
 ### MacOS Version
 
@@ -12,11 +12,11 @@ Opencore bootloader that I'm currently using on my hackintosh
 
 ### Mainboard
 
-MSI B450M Mortar Max
+Gigabyte Z490 Gaming X
 
 ### CPU
 
-AMD Ryzen 5 3600X
+Intel i7-10700
 
 ### GPU
 
