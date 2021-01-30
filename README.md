@@ -1,23 +1,14 @@
-# opencore-efi
+# Hackintosh Opencore Bootloader for B450, 3600X, RX 5600 XT
 
-Opencore bootloader that I'm currently using on my hackintosh
+Opencore bootloader that works on my old hackintosh
 
-### OpenCore Version
+## System
 
-0.6.5
+Bootloader: Opencore 0.6.5\
+OS: macOS 11.1 Big Sur
 
-### MacOS Version
+## Hardware
 
-11.1
-
-### Mainboard
-
-Gigabyte Z490 Gaming X
-
-### CPU
-
-Intel i7-10700
-
-### GPU
-
-MSI Radeon RX 5600 XT Gaming
+CPU: AMD Ryzen 5 3600X\
+Mainboard: MSI B450M Mortar Max\
+GPU: MSI RX 5600 XT Gaming X
